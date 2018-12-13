@@ -18,7 +18,7 @@
     height: 200px;
     /*font: 1em/1.5 Verdana, Sans-Serif;*/
     background: #fff;
-    border: 1px solid #b8b8b8;
+    border: 1px solid #eeeeee;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     }
@@ -30,8 +30,8 @@
         #keyboard li {
         float: left;
         margin: 0 5px 5px 0;
-        width: 40px;
-        height: 80px;
+        max-width: 40px; /*width*/
+        max-height: 80px;/*width*/
         line-height: 40px;
         text-align: center;
         background: #fff;
