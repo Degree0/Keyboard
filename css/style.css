@@ -8,16 +8,17 @@
     }
     #container {
     margin: 100px auto;
-    width: 688px;
+    /*width: 688px;*/
+    width: 100%;
     }
     #write {
     margin: 0 0 5px;
     padding: 5px;
-    width: 671px;
+    /*width: 671px;*/
     height: 200px;
     /*font: 1em/1.5 Verdana, Sans-Serif;*/
     background: #fff;
-    border: 1px solid #f9f9f9;
+    border: 1px solid #b8b8b8;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     }
