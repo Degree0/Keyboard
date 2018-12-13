@@ -43,19 +43,19 @@
             clear: left;
             }
                 #keyboard .tab, #keyboard .delete {
-                width: 70px;
+                width: 20px;
                 }
                 #keyboard .capslock {
-                width: 80px;
+                width: 30px;
                 }
                 #keyboard .return {
-                width: 77px;
+                width: 22px;
                 }
                 #keyboard .left-shift {
-                width: 95px;
+                width: 40px;
                 }
                 #keyboard .right-shift {
-                width: 109px;
+                width: 50px;
                 }
             .lastitem {
             margin-right: 0;
@@ -65,7 +65,7 @@
             }
             #keyboard .space {
             clear: left;
-            width: 681px;
+            width: 100%;
             }
             .on {
             display: none;
